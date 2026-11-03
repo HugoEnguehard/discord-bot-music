@@ -1,0 +1,10 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Dépendances
+node_modules/
+
+# Sauvegardes locales
+package-lock.json.bak
