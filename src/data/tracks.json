@@ -1,0 +1,462 @@
+{
+  "botw_calamity_ganon": {
+    "file": "/boss/botw_calamity_ganon.mp3",
+    "displayName": "Music from Breath of the Wild, Calamity Ganon"
+  },
+  "mc_boss_theme": {
+    "file": "/boss/mc_boss_theme.mp3",
+    "displayName": "Music from The Minish Cap, Boss Theme"
+  },
+  "mc_dark_hyrule_castle": {
+    "file": "/boss/mc_dark_hyrule_castle.mp3",
+    "displayName": "Music from The Minish Cap, Dark Hyrule Castle"
+  },
+  "mc_vaati_theme": {
+    "file": "/boss/mc_vaati_theme.mp3",
+    "displayName": "Music from The Minish Cap, Vaati Theme"
+  },
+  "mc_vaati_transfigured": {
+    "file": "/boss/mc_vaati_transfigured.mp3",
+    "displayName": "Music from The Minish Cap, Vaati Transfigured"
+  },
+  "mc_vaati_wrath": {
+    "file": "/boss/mc_vaati_wrath.mp3",
+    "displayName": "Music from The Minish Cap, Vaati Wrath"
+  },
+  "oot_ganondorf_boss": {
+    "file": "/boss/oot_ganondorf_boss.mp3",
+    "displayName": "Music from Ocarina of Time, Ganondorf Boss"
+  },
+  "oot_ganon_tower": {
+    "file": "/boss/oot_ganon_tower.mp3",
+    "displayName": "Music from Ocarina of Time, Ganon Tower"
+  },
+  "oot_koume_kotake_boss": {
+    "file": "/boss/oot_koume_kotake_boss.mp3",
+    "displayName": "Music from Ocarina of Time, Koume Kotake Boss"
+  },
+  "ss_avatar_du_neant": {
+    "file": "/boss/ss_avatar_du_neant.mp3",
+    "displayName": "Music from Skyward Sword, Avatar du Néant"
+  },
+  "ss_girahim_theme": {
+    "file": "/boss/ss_girahim_theme.mp3",
+    "displayName": "Music from Skyward Sword, Ghirahim Theme"
+  },
+  "st_malladus_theme": {
+    "file": "/boss/st_malladus_theme.mp3",
+    "displayName": "Music from Spirit Tracks, Malladus Theme"
+  },
+  "tp_deku_toad": {
+    "file": "/boss/tp_deku_toad.mp3",
+    "displayName": "Music from Twilight Princess, Deku Toad"
+  },
+  "alttp_princess_rescue": {
+    "file": "/chill/alttp_princess_rescue.mp3",
+    "displayName": "Music from A Link to the Past, Princess Rescue"
+  },
+  "alttp_safety_in_the_sanctuary": {
+    "file": "/chill/alttp_safety_in_the_sanctuary.mp3",
+    "displayName": "Music from A Link to the Past, Safety In the Sanctuary"
+  },
+  "la_ballade_poisson_reve": {
+    "file": "/chill/la_ballade_poisson_reve.mp3",
+    "displayName": "Music from Link's Awakening, Ballade Poisson Reve"
+  },
+  "mc_story": {
+    "file": "/chill/mc_story.mp3",
+    "displayName": "Music from The Minish Cap, Story"
+  },
+  "mm_song_of_healing": {
+    "file": "/chill/mm_song_of_healing.mp3",
+    "displayName": "Music from Majora's Mask, Song of Healing"
+  },
+  "oos_tarm_ruins": {
+    "file": "/chill/oos_tarm_ruins.mp3",
+    "displayName": "Music from Oracle of Seasons, Tarm Ruins"
+  },
+  "ph_oshu_theme": {
+    "file": "/chill/ph_oshu_theme.mp3",
+    "displayName": "Music from Phantom Hourglass, Oshu Theme"
+  },
+  "st_spirit_flute": {
+    "file": "/chill/st_spirit_flute.mp3",
+    "displayName": "Music from Spirit Tracks, Spirit Flute"
+  },
+  "tp_snowpeak_ruins": {
+    "file": "/chill/tp_snowpeak_ruins.mp3",
+    "displayName": "Music from Twilight Princess, Snowpeak Ruins"
+  },
+  "albw_lorule_castle": {
+    "file": "/combats/albw_lorule_castle.mp3",
+    "displayName": "Music from A Link Between Worlds, Lorule Castle"
+  },
+  "alttp_anger_guardians": {
+    "file": "/combats/alttp_anger_guardians.mp3",
+    "displayName": "Music from A Link to the Past, Anger Guardians"
+  },
+  "aof_battle_theme": {
+    "file": "/combats/aof_battle_theme.mp3",
+    "displayName": "Music from AOF, Battle Theme"
+  },
+  "aof_palace_theme": {
+    "file": "/combats/aof_palace_theme.mp3",
+    "displayName": "Music from AOF, Palace Theme"
+  },
+  "aol_great_palace": {
+    "file": "/combats/aol_great_palace.mp3",
+    "displayName": "Music from Adventure of Link, Great Palace"
+  },
+  "mm_boss_theme": {
+    "file": "/combats/mm_boss_theme.mp3",
+    "displayName": "Music from Majora's Mask, Boss Theme"
+  },
+  "ooas_veran_and_dark_dragon": {
+    "file": "/combats/ooas_veran_and_dark_dragon.mp3",
+    "displayName": "Music from Oracle of Ages / Seasons, Veran and Dark Dragon"
+  },
+  "oot_boss_battle": {
+    "file": "/combats/oot_boss_battle.mp3",
+    "displayName": "Music from Ocarina of Time, Boss Battle"
+  },
+  "oot_dinausor_battle": {
+    "file": "/combats/oot_dinausor_battle.mp3",
+    "displayName": "Music from Ocarina of Time, Dinosaur Battle"
+  },
+  "ph_ghost_ship_battle": {
+    "file": "/combats/ph_ghost_ship_battle.mp3",
+    "displayName": "Music from Phantom Hourglass, Ghost Ship Battle"
+  },
+  "ph_versus_linebeck": {
+    "file": "/combats/ph_versus_linebeck.mp3",
+    "displayName": "Music from Phantom Hourglass, Versus Linebeck"
+  },
+  "st_fighting_cole_and_malladus": {
+    "file": "/combats/st_fighting_cole_and_malladus.mp3",
+    "displayName": "Music from Spirit Tracks, Fighting Cole and Malladus"
+  },
+  "st_fight_against_byrin": {
+    "file": "/combats/st_fight_against_byrin.mp3",
+    "displayName": "Music from Spirit Tracks, Fight Against Byrne"
+  },
+  "st_protecting_zelda": {
+    "file": "/combats/st_protecting_zelda.mp3",
+    "displayName": "Music from Spirit Tracks, Protecting Zelda"
+  },
+  "st_skeldritch": {
+    "file": "/combats/st_skeldritch.mp3",
+    "displayName": "Music from Spirit Tracks, Skeldritch"
+  },
+  "tp_darknut": {
+    "file": "/combats/tp_darknut.mp3",
+    "displayName": "Music from Twilight Princess, Darknut"
+  },
+  "tp_fyrus": {
+    "file": "/combats/tp_fyrus.mp3",
+    "displayName": "Music from Twilight Princess, Fyrus"
+  },
+  "ww_helmaroc_king": {
+    "file": "/combats/ww_helmaroc_king.mp3",
+    "displayName": "Music from The Wind Waker, Helmaroc King"
+  },
+  "ww_puppet_ganon": {
+    "file": "/combats/ww_puppet_ganon.mp3",
+    "displayName": "Music from The Wind Waker, Puppet Ganon"
+  },
+  "createTrackJson": {
+    "file": "/createTrackJson.js",
+    "displayName": "Createtrackjson"
+  },
+  "alttp_dungeons_of_shadow": {
+    "file": "/donjons/alttp_dungeons_of_shadow.mp3",
+    "displayName": "Music from A Link to the Past, Dungeons of Shadow"
+  },
+  "alttp_losts_ancient_ruins": {
+    "file": "/donjons/alttp_losts_ancient_ruins.mp3",
+    "displayName": "Music from A Link to the Past, Lost Ancient Ruins"
+  },
+  "la_face_shrine": {
+    "file": "/donjons/la_face_shrine.mp3",
+    "displayName": "Music from Link's Awakening, Face Shrine"
+  },
+  "mc_elemental_sanctuary": {
+    "file": "/donjons/mc_elemental_sanctuary.mp3",
+    "displayName": "Music from The Minish Cap, Elemental Sanctuary"
+  },
+  "mc_forteresse_du_vent": {
+    "file": "/donjons/mc_forteresse_du_vent.mp3",
+    "displayName": "Music from The Minish Cap, Forteresse du Vent"
+  },
+  "mc_royal_crypt": {
+    "file": "/donjons/mc_royal_crypt.mp3",
+    "displayName": "Music from The Minish Cap, Royal Crypt"
+  },
+  "mc_tempe_of_droplets": {
+    "file": "/donjons/mc_tempe_of_droplets.mp3",
+    "displayName": "Music from The Minish Cap, Temple of Droplets"
+  },
+  "mm_great_bay_temple": {
+    "file": "/donjons/mm_great_bay_temple.mp3",
+    "displayName": "Music from Majora's Mask, Great Bay Temple"
+  },
+  "mm_pirate_fortress": {
+    "file": "/donjons/mm_pirate_fortress.mp3",
+    "displayName": "Music from Majora's Mask, Pirate Fortress"
+  },
+  "mm_stone_tower_temple": {
+    "file": "/donjons/mm_stone_tower_temple.mp3",
+    "displayName": "Music from Majora's Mask, Stone Tower Temple"
+  },
+  "ooa_black_tower": {
+    "file": "/donjons/ooa_black_tower.mp3",
+    "displayName": "Music from Oracle of Ages, Black Tower"
+  },
+  "ooa_secret_maze": {
+    "file": "/donjons/ooa_secret_maze.mp3",
+    "displayName": "Music from Oracle of Ages, Secret Maze"
+  },
+  "oos_dancing_dragon_dungeon": {
+    "file": "/donjons/oos_dancing_dragon_dungeon.mp3",
+    "displayName": "Music from Oracle of Seasons, Dancing Dragon Dungeon"
+  },
+  "oot_forest_temple": {
+    "file": "/donjons/oot_forest_temple.mp3",
+    "displayName": "Music from Ocarina of Time, Forest Temple"
+  },
+  "oot_spirit_temple": {
+    "file": "/donjons/oot_spirit_temple.mp3",
+    "displayName": "Music from Ocarina of Time, Spirit Temple"
+  },
+  "oot_water_temple": {
+    "file": "/donjons/oot_water_temple.mp3",
+    "displayName": "Music from Ocarina of Time, Water Temple"
+  },
+  "st_tower_of_spirits": {
+    "file": "/donjons/st_tower_of_spirits.mp3",
+    "displayName": "Music from Spirit Tracks, Tower of Spirits"
+  },
+  "st_tower_of_spirits_staircase": {
+    "file": "/donjons/st_tower_of_spirits_staircase.mp3",
+    "displayName": "Music from Spirit Tracks, Tower of Spirits Staircase"
+  },
+  "tloz_donjon": {
+    "file": "/donjons/tloz_donjon.mp3",
+    "displayName": "Music from The Legend of Zelda, Donjon"
+  },
+  "ww_tower_of_gods": {
+    "file": "/donjons/ww_tower_of_gods.mp3",
+    "displayName": "Music from The Wind Waker, Tower of Gods"
+  },
+  "mc_picori_festival": {
+    "file": "/magasins/mc_picori_festival.mp3",
+    "displayName": "Music from The Minish Cap, Picori Festival"
+  },
+  "mm_astral_observatory": {
+    "file": "/magasins/mm_astral_observatory.mp3",
+    "displayName": "Music from Majora's Mask, Astral Observatory"
+  },
+  "mm_milk_bar": {
+    "file": "/magasins/mm_milk_bar.mp3",
+    "displayName": "Music from Majora's Mask, Milk Bar"
+  },
+  "mm_staff_roll": {
+    "file": "/magasins/mm_staff_roll.mp3",
+    "displayName": "Music from Majora's Mask, Staff Roll"
+  },
+  "st_final_exams": {
+    "file": "/magasins/st_final_exams.mp3",
+    "displayName": "Music from Spirit Tracks, Final Exams"
+  },
+  "ww_beedle_shop": {
+    "file": "/magasins/ww_beedle_shop.mp3",
+    "displayName": "Music from The Wind Waker, Beedle Shop"
+  },
+  "alttp_cocorico_village": {
+    "file": "/villes/alttp_cocorico_village.mp3",
+    "displayName": "Music from A Link to the Past, Cocorico Village"
+  },
+  "la_first_time_coholint": {
+    "file": "/villes/la_first_time_coholint.mp3",
+    "displayName": "Music from Link's Awakening, First Time Coholint"
+  },
+  "la_link_awakens": {
+    "file": "/villes/la_link_awakens.mp3",
+    "displayName": "Music from Link's Awakening, Link Awakens"
+  },
+  "la_mabe_village": {
+    "file": "/villes/la_mabe_village.mp3",
+    "displayName": "Music from Link's Awakening, Mabe Village"
+  },
+  "mc_minish_village": {
+    "file": "/villes/mc_minish_village.mp3",
+    "displayName": "Music from The Minish Cap, Minish Village"
+  },
+  "mm_clock_town": {
+    "file": "/villes/mm_clock_town.mp3",
+    "displayName": "Music from Majora's Mask, Clock Town"
+  },
+  "mm_mayor_dotour": {
+    "file": "/villes/mm_mayor_dotour.mp3",
+    "displayName": "Music from Majora's Mask, Mayor Dotour"
+  },
+  "mm_mayor_meeting": {
+    "file": "/villes/mm_mayor_meeting.mp3",
+    "displayName": "Music from Majora's Mask, Mayor Meeting"
+  },
+  "mm_romani_ranch": {
+    "file": "/villes/mm_romani_ranch.mp3",
+    "displayName": "Music from Majora's Mask, Romani Ranch"
+  },
+  "ooa_queen_ambi_palace": {
+    "file": "/villes/ooa_queen_ambi_palace.mp3",
+    "displayName": "Music from Oracle of Ages, Queen Ambi Palace"
+  },
+  "oos_date_with_rosa": {
+    "file": "/villes/oos_date_with_rosa.mp3",
+    "displayName": "Music from Oracle of Seasons, Date With Rosa"
+  },
+  "oot_song_of_storm": {
+    "file": "/villes/oot_song_of_storm.mp3",
+    "displayName": "Music from Ocarina of Time, Song of Storm"
+  },
+  "oot_title_screen": {
+    "file": "/villes/oot_title_screen.mp3",
+    "displayName": "Music from Ocarina of Time, Title Screen"
+  },
+  "ph_ciela_spirit_of_courage": {
+    "file": "/villes/ph_ciela_spirit_of_courage.mp3",
+    "displayName": "Music from Phantom Hourglass, Ciela Spirit of Courage"
+  },
+  "st_anouki_village": {
+    "file": "/villes/st_anouki_village.mp3",
+    "displayName": "Music from Spirit Tracks, Anouki Village"
+  },
+  "tp_lake_hylia": {
+    "file": "/villes/tp_lake_hylia.mp3",
+    "displayName": "Music from Twilight Princess, Lake Hylia"
+  },
+  "ww_outset_island": {
+    "file": "/villes/ww_outset_island.mp3",
+    "displayName": "Music from The Wind Waker, Outset Island"
+  },
+  "ww_title_screen": {
+    "file": "/villes/ww_title_screen.mp3",
+    "displayName": "Music from The Wind Waker, Title Screen"
+  },
+  "alttp_death_mountain": {
+    "file": "/voyage/alttp_death_mountain.mp3",
+    "displayName": "Music from A Link to the Past, Death Mountain"
+  },
+  "alttp_forest_of_mystery": {
+    "file": "/voyage/alttp_forest_of_mystery.mp3",
+    "displayName": "Music from A Link to the Past, Forest of Mystery"
+  },
+  "alttp_hyrule_fields": {
+    "file": "/voyage/alttp_hyrule_fields.mp3",
+    "displayName": "Music from A Link to the Past, Hyrule Fields"
+  },
+  "botw_hyrule_castle": {
+    "file": "/voyage/botw_hyrule_castle.mp3",
+    "displayName": "Music from Breath of the Wild, Hyrule Castle"
+  },
+  "fsa_frozen_hyrule": {
+    "file": "/voyage/fsa_frozen_hyrule.mp3",
+    "displayName": "Music from Four Swords Adventures, Frozen Hyrule"
+  },
+  "fsa_lac_hylia": {
+    "file": "/voyage/fsa_lac_hylia.mp3",
+    "displayName": "Music from Four Swords Adventures, Lac Hylia"
+  },
+  "la_overworld": {
+    "file": "/voyage/la_overworld.mp3",
+    "displayName": "Music from Link's Awakening, Overworld"
+  },
+  "la_tal_tal_heights": {
+    "file": "/voyage/la_tal_tal_heights.mp3",
+    "displayName": "Music from Link's Awakening, Tal Tal Heights"
+  },
+  "mc_clouds_top": {
+    "file": "/voyage/mc_clouds_top.mp3",
+    "displayName": "Music from The Minish Cap, Clouds Top"
+  },
+  "mc_minish_woods": {
+    "file": "/voyage/mc_minish_woods.mp3",
+    "displayName": "Music from The Minish Cap, Minish Woods"
+  },
+  "mc_mont_crenel": {
+    "file": "/voyage/mc_mont_crenel.mp3",
+    "displayName": "Music from The Minish Cap, Mont Crenel"
+  },
+  "mm_termina_fields": {
+    "file": "/voyage/mm_termina_fields.mp3",
+    "displayName": "Music from Majora's Mask, Termina Fields"
+  },
+  "oot_kaepore_gaebora": {
+    "file": "/voyage/oot_kaepore_gaebora.mp3",
+    "displayName": "Music from Ocarina of Time, Kaepora Gaebora"
+  },
+  "oot_kokiri_forest": {
+    "file": "/voyage/oot_kokiri_forest.mp3",
+    "displayName": "Music from Ocarina of Time, Kokiri Forest"
+  },
+  "ph_great_sea": {
+    "file": "/voyage/ph_great_sea.mp3",
+    "displayName": "Music from Phantom Hourglass, Great Sea"
+  },
+  "ph_linebeck_theme": {
+    "file": "/voyage/ph_linebeck_theme.mp3",
+    "displayName": "Music from Phantom Hourglass, Linebeck Theme"
+  },
+  "ss_faron_woods": {
+    "file": "/voyage/ss_faron_woods.mp3",
+    "displayName": "Music from Skyward Sword, Faron Woods"
+  },
+  "st_credits": {
+    "file": "/voyage/st_credits.mp3",
+    "displayName": "Music from Spirit Tracks, Credits"
+  },
+  "st_cursed_overworld": {
+    "file": "/voyage/st_cursed_overworld.mp3",
+    "displayName": "Music from Spirit Tracks, Cursed Overworld"
+  },
+  "st_fraaz_master_of_icy_fire": {
+    "file": "/voyage/st_fraaz_master_of_icy_fire.mp3",
+    "displayName": "Music from Spirit Tracks, Fraaz Master of Icy Fire"
+  },
+  "st_realm_overworld": {
+    "file": "/voyage/st_realm_overworld.mp3",
+    "displayName": "Music from Spirit Tracks, Realm Overworld"
+  },
+  "tfh_woodlands": {
+    "file": "/voyage/tfh_woodlands.mp3",
+    "displayName": "Music from Tri Force Heroes, Woodlands"
+  },
+  "tp_faron_woods": {
+    "file": "/voyage/tp_faron_woods.mp3",
+    "displayName": "Music from Twilight Princess, Faron Woods"
+  },
+  "tp_hidden_skill_training": {
+    "file": "/voyage/tp_hidden_skill_training.mp3",
+    "displayName": "Music from Twilight Princess, Hidden Skill Training"
+  },
+  "tp_hyrule_fields": {
+    "file": "/voyage/tp_hyrule_fields.mp3",
+    "displayName": "Music from Twilight Princess, Hyrule Fields"
+  },
+  "wog_map": {
+    "file": "/voyage/wog_map.mp3",
+    "displayName": "Music from Wand of Gamelon, Map"
+  },
+  "ww_great_sea": {
+    "file": "/voyage/ww_great_sea.mp3",
+    "displayName": "Music from The Wind Waker, Great Sea"
+  },
+  "ww_molgera": {
+    "file": "/voyage/ww_molgera.mp3",
+    "displayName": "Music from The Wind Waker, Molgera"
+  },
+  "zelda_main_theme": {
+    "file": "/voyage/zelda_main_theme.mp3",
+    "displayName": "Music from The Legend of Zelda, Main Theme"
+  }
+}
