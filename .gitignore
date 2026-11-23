@@ -1,0 +1,28 @@
+# Secrets: keep reviewed templates only.
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+secrets/
+.console-password
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Dependencies, logs and private runtime backups.
+node_modules/
+*.log
+logs/
+/data/
+/backups/
+*.dump
+*.backup
+*.sqlite*
+*.bak
+
+# Preserve the original source library; exclude Admin runtime catalog/archives.
+src/data/.tfoh-music.json
+src/data/.retired/
+src/data/.pending-*

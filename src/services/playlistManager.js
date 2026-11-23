@@ -1,9 +1,7 @@
-const playlists = require('../data/playlists.json');
+const {playlists} = require('./catalogStore');
 const { getTrack } = require('./trackManager');
 
-function shuffle(array) {
-  return [...array].sort(() => Math.random() - 0.5);
-}
+const {shuffle} = require('./shuffle');
 
 function getPlaylist(playlistName, options = {}) {
   if (!playlistName) return null;

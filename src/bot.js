@@ -1,3 +1,4 @@
+require('./runtime');
 require('dotenv').config({
   quiet: true,
 });
@@ -35,4 +36,7 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-client.login(process.env.TOKEN);
+let closing=false;
+async function shutdown(){if(closing)return;closing=true;setTimeout(()=>process.exit(1),10000).unref();for(const c of require('@discordjs/voice').getVoiceConnections().values())c.destroy();await client.destroy();process.exit(0);}
+process.once('SIGTERM',()=>void shutdown());process.once('SIGINT',()=>void shutdown());
+if(!process.env.TOKEN){console.error('TOKEN manquant.');process.exitCode=1;}else client.login(process.env.TOKEN).catch(()=>{console.error('Connexion Discord impossible.');void client.destroy();process.exitCode=1;});

@@ -1,5 +1,5 @@
 const path = require('path');
-const tracks = require('../data/tracks.json');
+const {tracks} = require('./catalogStore');
 
 const MUSIC_DIR = path.join(__dirname, '..', 'data', 'musics');
 
